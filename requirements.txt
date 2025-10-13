@@ -1,0 +1,15 @@
+# Main Ultralytics package
+ultralytics>=8.2.64
+
+# Core dependencies for training and validation
+torch>=1.8.0
+torchvision>=0.9.0
+numpy>=1.22.2
+opencv-python>=4.6.0
+PyYAML>=5.3.1
+tqdm>=4.64.0
+scipy>=1.4.1
+
+# Other useful packages
+matplotlib>=3.3.0
+Pillow
