@@ -1,0 +1,9 @@
+I would like to have the information potholes plotted on google map via custom app developed by me for android and iPhone, 
+this will be similar to what user see in advance in case of traffic jams, similar way I would like to have the information of potholes 
+plotted on map with the information of how dangerous that pothole is, it can be categorized in green for shallow less risky potholes, 
+yellow for medium breadth, length and depth pothole that might cause accident and red for dangerous potholes which can seriously cause accident, 
+when user are near to potholes colored spot needs to be highlighted to user, also if one side of rode has many potholes it can suggest user drive left or righ if possible, 
+I would like you as a software architect give me the various component in this system that I need to develop and their integrations, 
+how they should work to achieve this goal, also suggest better model to use, back end and front end technologies stack that can speed up this work, 
+list down which open source component like API etc. I can use to fulfil this objective, architectural diagram code needs to work in www.planttext.com, 
+also give me the publicly available datasets that I can use for this purpose, Is there any project going on to achieve this in India ?
