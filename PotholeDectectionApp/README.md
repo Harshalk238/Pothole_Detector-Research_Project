@@ -10,7 +10,6 @@ An Android application that uses **YOLOv8 TensorFlow Lite** model to detect poth
 
 ## 📋 Table of Contents
 - [Features](#-features)
-- [Demo](#-demo)
 - [Architecture](#-architecture)
 - [Requirements](#-requirements)
 - [Installation](#-installation)
@@ -20,8 +19,6 @@ An Android application that uses **YOLOv8 TensorFlow Lite** model to detect poth
 - [Project Structure](#-project-structure)
 - [Known Limitations](#-known-limitations)
 - [Future Enhancements](#-future-enhancements)
-- [Contributing](#-contributing)
-- [License](#-license)
 - [Acknowledgments](#-acknowledgments)
 
 ---
@@ -34,20 +31,6 @@ An Android application that uses **YOLOv8 TensorFlow Lite** model to detect poth
 - ✅ **Optimized Performance**: Uses NMS (Non-Maximum Suppression) to eliminate duplicate detections
 - ✅ **Smooth UI**: Background processing ensures lag-free camera preview
 - ✅ **Lightweight**: Runs entirely on-device using TensorFlow Lite
-
----
-
-## 🎥 Demo
-
-> **Note**: Add screenshots or video demos here
-
-### Screenshots
-| Camera View | Detection in Action | Multiple Potholes |
-|------------|---------------------|-------------------|
-| ![Screenshot 1](screenshots/screen1.jpg) | ![Screenshot 2](screenshots/screen2.jpg) | ![Screenshot 3](screenshots/screen3.jpg) |
-
-### Video Demo
-[Link to demo video]
 
 ---
 
@@ -302,43 +285,12 @@ app/src/main/
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Code Style
-- Follow standard Java conventions
-- Add comments for complex logic
-- Update README if adding new features
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - **YOLOv8**: [Ultralytics](https://github.com/ultralytics/ultralytics) for the object detection model
 - **TensorFlow Lite**: Google's ML framework for mobile deployment
 - **CameraX**: Android Jetpack library for camera operations
 - **Dataset**: [Mention dataset source if applicable]
-
----
-
-## 📧 Contact
-
-**Your Name** - your.email@example.com
-
-**Project Link**: [https://github.com/yourusername/pothole-detection-app](https://github.com/yourusername/pothole-detection-app)
 
 ---
 
@@ -372,5 +324,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Test on device with better specs
 
 ---
-
-**⭐ If you find this project helpful, please consider giving it a star!**
