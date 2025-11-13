@@ -139,7 +139,7 @@ Download the YOLOv8 TFLite model and place it in the assets folder:
 app/src/main/assets/model.tflite
 ```
 
-**Model Download**: [Provide link to trained model or training instructions]
+**Model Download**: added the model.tflite file in model files dir.
 
 ### 4. Build and Run
 - Connect your Android device or start an emulator
